@@ -1,0 +1,50 @@
+.mainbox{ width: fit-content;
+    margin: auto;
+}
+.heading1 { text-align: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.box { 
+background-color: whitesmoke;
+display: inline-block;
+width: 150px;
+margin: 20px auto;
+text-align: center;
+padding-top: 15px;
+border-radius: 14px;
+}
+.heading2{ text-align: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.product {  width: 270px;
+text-align: center;
+display: inline-block;
+border-radius: 10px;
+margin: 20px;
+background-color: whitesmoke;
+_}
+
+.productgroup { width: fit-content;
+margin: auto;}
+
+.product a {text-decoration: none;}
+
+.product .price { color: red; 
+text-align: left}
+
+.heading3 { text-align: center;}
+.cource img {width: 300px;
+    margin: auto; 
+    border-radius: 20PX;
+}
+.cource { display: inline-block;
+background-color: whitesmoke;
+border-radius:20PX ;
+margin: 20px;
+}
+
+.cource p {color: crimson;}
+.group{ background-color:#CEDBDC;}
